@@ -16,7 +16,7 @@ brew install grip
 
 [grip documentation and usage](https://github.com/joeyespo/grip)
 
-Now, here is the megtod to remove annoying header from grip CLI markdown output
+Now, here is the method to remove annoying header from grip CLI markdown output
 
 ```sh
 # create a file ~/.grip/settings.py
